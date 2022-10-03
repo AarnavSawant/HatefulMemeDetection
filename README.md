@@ -1,3 +1,3 @@
 # HatefulMemeDetection
 
-(WIP) Code for Hateful Multi-Modal Hateful Meme Detection
+(WIP) Code for Multi-Modal Hateful Meme Detection
